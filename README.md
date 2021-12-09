@@ -1,1 +1,1 @@
-Hyperskill coffee simulator project.
+Hyperskill coffee simulator python project.
